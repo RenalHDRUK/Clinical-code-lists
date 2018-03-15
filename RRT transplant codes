@@ -35,12 +35,6 @@ SP0H0	Dialysis disequilibrium
 TB001	Kidney transplant+complication	
 TB11	Kidney dialysis+complication	
 ZV451	[V]Renal dialysis status		
-44J3	Serum Creatinine		
-Y7Fa9	Creatinine level	
-Y7FaC	Serum Creatinine	
-Y7FaG	Urine Creatinine	`		
-YavIA	Estimated GFR using CKD-Epi formula per 1.73 square metres	
-Yay5S	Estimated glomerular filtration rate using creatinine Chronic Kidney Disease Epidemiology Collaboration equation per 1.73 square metres	
 y03LN	Dialysis fluid
 y03LO	Haeomdialysis fluid
 u03dI	Intermittent haemodialysis
