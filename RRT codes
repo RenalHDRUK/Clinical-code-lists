@@ -3,17 +3,6 @@ ReadCode	CodeMeaning
 451L	AKI warning stage		
 4I29	Peritoneal dialysis sample	
 4N	Dialysis fluid examination	
-7B00	Transplantation of kidney	
-7B000	Autotransplant of kidney	
-7B001	Live donor kidney transplant	
-7B002	Cadaver donor kidney transplnt	
-7B003	"Allotra kidney cad, heart-beat"	
-7B004	"Allot kid cad, heart non-beat"	
-7B005	Allotranspl kidney cadaver NEC	
-7B006	Xenograft renal transplant	
-7B00y	Transplantation of kidney OS		
-7B00z	Transplantation of kidney NOS	
-7B00	Transplantation of kidney	
 7L1A	Compensation for renal failure	
 7L1A0	Renal dialysis	
 7L1A1	Peritoneal dialysis	
@@ -32,7 +21,6 @@ SP0F	Hemodialysis first use syndrom
 SP0G	Anaphyld react due haemodialys	
 SP0H	Disorder assoc with dialysis		
 SP0H0	Dialysis disequilibrium		
-TB001	Kidney transplant+complication	
 TB11	Kidney dialysis+complication	
 ZV451	[V]Renal dialysis status		
 y03LN	Dialysis fluid
@@ -51,23 +39,4 @@ Y03dO	Continuous venovenous haemodialysis
 Y03dP	CVVD - Continuous venovenous haemodialysis
 Yayoh	Dialysis therapy started by renal service
 Yayoi	Dialysis therapy stopped by renal service
-Y30ee	Renal transplant
-Y30ef	Transplantation of kidney
-Y30eg	Tx - Renal transplantation
-Y30eh	Tx - Kidney transplantation
-Y30ej	Transplantation of kidney NOS
-Y30ek	Transplantation of kidney OS
-Y30el	Cadaveric renal transplant
-Y30em	Allotransplant kidney cadaver
-Y30en	Cadaver donor kidney transplnt
-Y30eo	Cadaver renal allotransplant
-Y30ep	Cadaver renal allograft
-Y30eq	Live donor renal transplant
-Y30er	Allotranspl kidney live donor
-Y30es	Live donor kidney transplant
-Y30et	Live donor renal allotransplnt
-Y30eu	Live donor renal allograft
-Y30ev	Xenograft renal transplant
-Y30ew	Autotransplantation of kidney
-Y30ex	Autotransplant of kidney
 
