@@ -1,11 +1,6 @@
 ReadCode	CodeMeaning	
 14V2	H/O: renal dialysis	
-451E	GFR calculated abbreviatd MDRD	
-451F	Glomerular filtration rate	
-451G	GFR calctd abbtd MDRD Af Am or	
-451K	eGFR (CKD-Epi)/1.73 m2		
 451L	AKI warning stage		
-451N	eGFRcreat (CKD-EPI)/1.73 m*2	
 4I29	Peritoneal dialysis sample	
 4N	Dialysis fluid examination	
 7B00	Transplantation of kidney	
